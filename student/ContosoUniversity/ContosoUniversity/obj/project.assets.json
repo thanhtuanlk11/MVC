@@ -9829,11 +9829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\nhap1234\\student\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\namng\\OneDrive\\Máy tính\\MVC\\student\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\xampp\\htdocs\\nhap1234\\student\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectPath": "C:\\Users\\namng\\OneDrive\\Máy tính\\MVC\\student\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
       "packagesPath": "C:\\Users\\namng\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\nhap1234\\student\\ContosoUniversity\\ContosoUniversity\\obj\\",
+      "outputPath": "C:\\Users\\namng\\OneDrive\\Máy tính\\MVC\\student\\ContosoUniversity\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
